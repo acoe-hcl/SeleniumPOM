@@ -1,0 +1,10 @@
+testCases\ContactsPageTest.class
+testBase\BaseClass.class
+pageObjects\AccountRegistrationPage.class
+pageObjects\ContactPage.class
+utilities\ExtentReportManager$1.class
+pageObjects\LoginPage.class
+pageObjects\BasePage.class
+utilities\ExtentReportManager.class
+testCases\LoginPageTest.class
+utilities\TestUtil.class

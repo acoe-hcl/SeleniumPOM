@@ -1,0 +1,9 @@
+05:22:17.770 [main] INFO  testCases.LoginPageTest - **** Finished loginTest  *****
+05:22:18.388 [main] INFO  testCases.LoginPageTest - Page Closed
+05:22:40.896 [main] INFO  testCases.LoginPageTest - Page Opened
+05:22:40.898 [main] INFO  testCases.LoginPageTest - **** starting test case Login Page Title Test  *****
+05:22:40.987 [main] INFO  testCases.LoginPageTest - Title of the page is: STORE
+05:22:40.988 [main] INFO  testCases.LoginPageTest - Expected and Actual Title Matched correctly
+05:22:40.988 [main] INFO  testCases.LoginPageTest - **** Finished LoginPageTitleTest  *****
+05:22:40.988 [main] INFO  testCases.LoginPageTest - application logs Finished for Login page......
+05:22:41.598 [main] INFO  testCases.LoginPageTest - Page Closed

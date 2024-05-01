@@ -1,0 +1,50 @@
+11:54:51.038 [main] INFO  testCases.LoginPageTest - Title of the page is: #1 Free CRM Power Up your Entire Business Free Forever
+11:54:51.059 [main] INFO  testCases.LoginPageTest - Expected and Actual Title Matched correctly
+11:54:51.060 [main] INFO  testCases.LoginPageTest - **** Finished LoginPageTitleTest  *****
+11:54:51.060 [main] INFO  testCases.LoginPageTest - application logs Finished for Login page......
+11:54:51.447 [main] INFO  testCases.LoginPageTest - Page Closed
+12:10:18.284 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\UTKARSH\eclipse-workspace\FreeCrmTest\testng.xml"
+12:10:18.366 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\UTKARSH\eclipse-workspace\FreeCrmTest\testng.xml] otherwise TestNG may fail or not work as expected.
+12:10:42.584 [main] INFO  testCases.LoginPageTest - Page Opened
+12:10:42.613 [main] INFO  testCases.LoginPageTest - application logs started for Login page......
+12:10:42.614 [main] INFO  testCases.LoginPageTest - **** starting test case Login test  *****
+12:10:42.713 [main] INFO  testCases.LoginPageTest - Clicked on login button
+12:10:49.963 [main] INFO  testCases.LoginPageTest - Entered username and password and clicked sign in
+12:10:49.963 [main] INFO  testCases.LoginPageTest - **** Finished loginTest  *****
+12:10:50.197 [main] INFO  testCases.LoginPageTest - Page Closed
+12:11:03.580 [main] INFO  testCases.LoginPageTest - Page Opened
+12:11:03.581 [main] INFO  testCases.LoginPageTest - **** starting test case Login Page Title Test  *****
+12:11:03.612 [main] INFO  testCases.LoginPageTest - Title of the page is: #1 Free CRM Power Up your Entire Business Free Forever
+12:11:03.615 [main] INFO  testCases.LoginPageTest - Expected and Actual Title Matched correctly
+12:11:03.616 [main] INFO  testCases.LoginPageTest - **** Finished LoginPageTitleTest  *****
+12:11:03.616 [main] INFO  testCases.LoginPageTest - application logs Finished for Login page......
+12:11:03.925 [main] INFO  testCases.LoginPageTest - Page Closed
+12:23:15.326 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\UTKARSH\eclipse-workspace\FreeCrmTest\testng.xml"
+12:23:15.368 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\UTKARSH\eclipse-workspace\FreeCrmTest\testng.xml] otherwise TestNG may fail or not work as expected.
+12:23:38.382 [main] INFO  testCases.LoginPageTest - Page Opened
+12:23:38.394 [main] INFO  testCases.LoginPageTest - application logs started for Login page......
+12:23:38.395 [main] INFO  testCases.LoginPageTest - **** starting test case Login test  *****
+12:23:38.477 [main] INFO  testCases.LoginPageTest - Clicked on login button
+12:23:45.779 [main] INFO  testCases.LoginPageTest - Entered username and password and clicked sign in
+12:23:45.779 [main] INFO  testCases.LoginPageTest - **** Finished loginTest  *****
+12:23:46.215 [main] INFO  testCases.LoginPageTest - Page Closed
+12:23:59.860 [main] INFO  testCases.LoginPageTest - Page Opened
+12:23:59.862 [main] INFO  testCases.LoginPageTest - **** starting test case Login Page Title Test  *****
+12:23:59.886 [main] INFO  testCases.LoginPageTest - Title of the page is: #1 Free CRM Power Up your Entire Business Free Forever
+12:23:59.896 [main] INFO  testCases.LoginPageTest - Expected and Actual Title Matched correctly
+12:23:59.896 [main] INFO  testCases.LoginPageTest - **** Finished LoginPageTitleTest  *****
+12:23:59.896 [main] INFO  testCases.LoginPageTest - application logs Finished for Login page......
+12:24:00.455 [main] INFO  testCases.LoginPageTest - Page Closed
+17:11:47.540 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\UTKARSH\eclipse-workspace\FreeCrmTest\testng.xml"
+17:11:47.575 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\UTKARSH\eclipse-workspace\FreeCrmTest\testng.xml] otherwise TestNG may fail or not work as expected.
+17:11:48.065 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\UTKARSH\eclipse-workspace\FreeCrmTest\testng.xml
+
+17:12:13.359 [main] INFO  testCases.LoginPageTest - Page Opened
+17:12:13.387 [main] INFO  testCases.LoginPageTest - application logs started for Login page......
+17:12:13.388 [main] INFO  testCases.LoginPageTest - **** starting test case Login test  *****
+17:12:13.401 [main] INFO  testCases.LoginPageTest - Clicked on login button
+17:12:22.274 [main] INFO  testCases.LoginPageTest - Entered username and password and clicked sign in
+17:12:22.274 [main] INFO  testCases.LoginPageTest - **** Finished loginTest  *****
+17:12:23.265 [main] INFO  testCases.LoginPageTest - Page Closed
+17:12:38.520 [main] INFO  testCases.LoginPageTest - Page Opened

@@ -1,0 +1,53 @@
+06:00:29.760 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Utkarsh\Workspace\FreeCrmTest\testng.xml"
+06:00:29.782 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Utkarsh\Workspace\FreeCrmTest\testng.xml] otherwise TestNG may fail or not work as expected.
+06:00:29.989 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Utkarsh\Workspace\FreeCrmTest\testng.xml
+
+06:00:56.140 [main] INFO  testCases.LoginPageTest - Page Opened
+06:00:56.153 [main] INFO  testCases.LoginPageTest - application logs started for Login page......
+06:00:56.154 [main] INFO  testCases.LoginPageTest - **** starting test case Login test  *****
+06:00:56.156 [main] INFO  testCases.LoginPageTest - Clicked on login button
+06:00:57.375 [main] ERROR testCases.LoginPageTest - test failed..
+06:00:57.375 [main] INFO  testCases.LoginPageTest - **** Finished loginTest  *****
+06:00:58.022 [main] INFO  testCases.LoginPageTest - Page Closed
+06:01:22.968 [main] INFO  testCases.LoginPageTest - Page Opened
+06:01:22.971 [main] INFO  testCases.LoginPageTest - **** starting test case Login Page Title Test  *****
+06:01:23.021 [main] INFO  testCases.LoginPageTest - Title of the page is: #1 Free CRM Power Up your Entire Business Free Forever
+06:01:23.025 [main] INFO  testCases.LoginPageTest - Expected and Actual Title Matched correctly
+06:01:23.025 [main] INFO  testCases.LoginPageTest - **** Finished LoginPageTitleTest  *****
+06:01:23.025 [main] INFO  testCases.LoginPageTest - application logs Finished for Login page......
+06:01:23.647 [main] INFO  testCases.LoginPageTest - Page Closed
+06:01:37.475 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Utkarsh\Workspace\FreeCrmTest\testng.xml"
+06:01:37.493 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Utkarsh\Workspace\FreeCrmTest\testng.xml] otherwise TestNG may fail or not work as expected.
+06:01:37.706 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Utkarsh\Workspace\FreeCrmTest\testng.xml
+
+06:02:03.326 [main] INFO  testCases.LoginPageTest - Page Opened
+06:02:03.333 [main] INFO  testCases.LoginPageTest - application logs started for Login page......
+06:02:03.333 [main] INFO  testCases.LoginPageTest - **** starting test case Login test  *****
+06:02:03.336 [main] INFO  testCases.LoginPageTest - Clicked on login button
+06:02:04.541 [main] ERROR testCases.LoginPageTest - test failed..
+06:02:04.542 [main] INFO  testCases.LoginPageTest - **** Finished loginTest  *****
+06:02:05.187 [main] INFO  testCases.LoginPageTest - Page Closed
+07:05:48.864 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Utkarsh\Workspace\FreeCrmTest\testng.xml"
+07:05:48.882 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Utkarsh\Workspace\FreeCrmTest\testng.xml] otherwise TestNG may fail or not work as expected.
+07:05:49.093 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Utkarsh\Workspace\FreeCrmTest\testng.xml
+
+07:06:16.659 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Utkarsh\Workspace\FreeCrmTest\testng.xml"
+07:06:16.678 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Utkarsh\Workspace\FreeCrmTest\testng.xml] otherwise TestNG may fail or not work as expected.
+07:06:16.885 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Utkarsh\Workspace\FreeCrmTest\testng.xml
+
+07:08:07.232 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Utkarsh\Workspace\FreeCrmTest\testng.xml"
+07:08:07.253 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Utkarsh\Workspace\FreeCrmTest\testng.xml] otherwise TestNG may fail or not work as expected.
+07:08:07.471 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Utkarsh\Workspace\FreeCrmTest\testng.xml
+
+07:09:29.092 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Utkarsh\Workspace\FreeCrmTest\testng.xml"
+07:09:29.110 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Utkarsh\Workspace\FreeCrmTest\testng.xml] otherwise TestNG may fail or not work as expected.
+07:09:29.322 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Utkarsh\Workspace\FreeCrmTest\testng.xml
+
+07:14:42.680 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Utkarsh\Workspace\FreeCrmTest\testng.xml"
+07:14:42.698 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Utkarsh\Workspace\FreeCrmTest\testng.xml] otherwise TestNG may fail or not work as expected.
