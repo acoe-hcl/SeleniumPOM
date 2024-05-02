@@ -115,7 +115,7 @@ public class BaseClass {
 		String targetFilePath;	
 		TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
 		File sourceFile = takesScreenshot.getScreenshotAs(OutputType.FILE);
-		if(p.getProperty("pathForScreenShotInJenkins").equals("true"))
+		if(Boolean.parseBoolean(p.getProperty("pathForScreenShotInJenkins")))
 		{
 		targetFilePath=p.getProperty("jenkinsScreenShotPath")+tname+"_"+timeStamp+".png";
 		}
