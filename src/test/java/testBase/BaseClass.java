@@ -108,6 +108,9 @@ public class BaseClass {
 	
 	public String captureScreen(String tname) throws IOException {
 
+		FileReader file=new FileReader(".//src//test//resources//config.properties");
+		p=new Properties();
+		p.load(file);
 		String timeStamp = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
 		String targetFilePath;	
 		TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
