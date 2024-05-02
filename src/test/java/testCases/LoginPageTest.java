@@ -10,7 +10,7 @@ import testBase.BaseClass;
 public class LoginPageTest extends BaseClass {
 	
 
-	@Test(priority=2,enabled=false)
+	@Test(priority=2)
 	public void LoginPageTitleTest() throws InterruptedException
 	{  try {
 		logger.info("**** starting test case Login Page Title Test  *****");
@@ -50,7 +50,7 @@ public class LoginPageTest extends BaseClass {
 
 	}
 	
-	@Test(priority=3,enabled=false)
+	@Test(priority=3)
 	public void logOutTest() 
 	{      
 		logger.info("application logs started for Login page......");
