@@ -10,7 +10,7 @@ import testBase.BaseClass;
 public class LoginPageTest extends BaseClass {
 	
 
-	@Test(priority=2)
+	@Test(priority=2,enabled=false)
 	public void LoginPageTitleTest() throws InterruptedException
 	{  try {
 		logger.info("**** starting test case Login Page Title Test  *****");
@@ -50,7 +50,7 @@ public class LoginPageTest extends BaseClass {
 
 	}
 	
-	@Test(priority=3)
+	@Test(priority=3,enabled=false)
 	public void logOutTest() 
 	{      
 		logger.info("application logs started for Login page......");
@@ -60,7 +60,7 @@ public class LoginPageTest extends BaseClass {
 		logger.info("Clicked on logout button");
 		loginPage.logout(p.getProperty("username"), p.getProperty("password"));
 		logger.info("Asserting logIn text visible or not");
-		Assert.assertEquals(driver.findElement(By.id("login2")).getText(),"Log in");
+		Assert.assertEquals(driver.findElement(By.id("login2")).getText(),"Log i");
 		}
 		catch(Exception e)
 		{

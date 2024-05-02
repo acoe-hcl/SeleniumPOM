@@ -66,25 +66,12 @@ public class BaseClass {
 		}
 		
 		
-		//driver.manage().deleteAllCookies();
+		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
 		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(30));
 		
 
 		driver.get(p.getProperty("appURL"));
-		//Set<Cookie> cookies = driver.manage().getCookies();
-		//System.out.println(cookies);
-//		for (Cookie cok :cookies)
-//		{
-//			driver.manage().addCookie(new Cookie(cok.getName(),cok.getValue()));
-//		}
-		//driver.manage().addCookie(new Cookie("_ga_FN5FHVSJC6","GS1.1.1714481652.1.0.1714481652.60.0.1660723518"));
-		//driver.manage().addCookie(cookies[1])
-//		System.out.println("i am here");
-//		driver.switchTo().frame("__tcfapiLocator");
-//		System.out.println("entered frame");
-//		driver.findElement(By.xpath("//button[@id='cf_consent-buttons__accept-all']")).click();
-//		System.out.println("entered");
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
 		logger.info("Page Opened");
