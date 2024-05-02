@@ -109,11 +109,16 @@ public class BaseClass {
 	public String captureScreen(String tname) throws IOException {
 
 		String timeStamp = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
-				
+		String targetFilePath;	
 		TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
 		File sourceFile = takesScreenshot.getScreenshotAs(OutputType.FILE);
-		
-		String targetFilePath=System.getProperty("user.dir")+"\\screenshots\\" + tname + "_" + timeStamp + ".png";
+		if(p.getProperty("pathForScreenShotInJenkins").equals("true"))
+		{
+		targetFilePath=p.getProperty("jenkinsScreenShotPath")+tname+"_"+timeStamp+".png";
+		}
+		else {
+		targetFilePath=System.getProperty("user.dir")+"\\screenshots\\" + tname + "_" + timeStamp + ".png";
+		}
 		File targetFile=new File(targetFilePath);
 		
 		sourceFile.renameTo(targetFile);
