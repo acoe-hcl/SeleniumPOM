@@ -60,7 +60,7 @@ public class LoginPageTest extends BaseClass {
 		logger.info("Clicked on logout button");
 		loginPage.logout(p.getProperty("username"), p.getProperty("password"));
 		logger.info("Asserting logIn text visible or not");
-		Assert.assertEquals(driver.findElement(By.id("login2")).getText(),"Log i");
+		Assert.assertEquals(driver.findElement(By.id("login2")).getText(),"Log in");
 		}
 		catch(Exception e)
 		{
